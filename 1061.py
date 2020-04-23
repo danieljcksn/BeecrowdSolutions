@@ -1,3 +1,4 @@
+#Questão 1061 - Tempo de um Evento - URI Online Judge
 di = input().split(" ")
 w = int(di[1])
 hi = input().split(" ")
