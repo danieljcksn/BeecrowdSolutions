@@ -1,4 +1,4 @@
-//Questão 1007 - Diferença
+//Questão 1007 - URI Online Judge
 #include <stdio.h>
  
 int main() {
