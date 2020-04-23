@@ -1,3 +1,4 @@
+//Questão 1068 - Balanço de Parênteses I - URI Online Judge
 #include <stdio.h>
 #include <string.h>
 int main(void){
