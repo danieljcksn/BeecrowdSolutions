@@ -1,4 +1,4 @@
-//Questão 1001 - Extremamente Básico
+//Questão 1001 - Extremamente Básico 
 #include <stdio.h>
 
 int main (void) {
