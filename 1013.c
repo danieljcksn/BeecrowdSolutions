@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(){
-    int a, b, c;
+    int a, b, c; 
     int m, maior;
 
     scanf("%i %i %i", &a, &b, &c);
