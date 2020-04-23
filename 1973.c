@@ -1,3 +1,4 @@
+//Questão 1973 - Jornada nas Estrelas - URI Online Judge
 #include <stdio.h>
 #include <stdbool.h>
 
