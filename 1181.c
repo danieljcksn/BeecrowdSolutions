@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void){
-    int l, i, j;
+    int l, i, j; 
     float m[12][12], soma = 0.0, media;
     char t;
 
