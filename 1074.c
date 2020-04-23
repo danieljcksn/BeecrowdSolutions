@@ -1,7 +1,7 @@
 //Questão 1074 - Par ou Ímpar - URI Online Judge
 
 #include <stdio.h>
-
+ 
 int main(void){
     int n, x, i;
 
