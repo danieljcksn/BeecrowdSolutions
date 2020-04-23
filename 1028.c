@@ -1,3 +1,4 @@
+//Questão 1028 - Figurinhas - URI Online Judge
 #include <stdio.h>
 
 int calculaMdc(int f1, int f2){
