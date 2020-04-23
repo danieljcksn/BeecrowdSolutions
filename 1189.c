@@ -1,3 +1,4 @@
+//Questão 1189 - Área Esquerda - URI Online Judge
 #include <stdio.h>
 
 int main(void){
