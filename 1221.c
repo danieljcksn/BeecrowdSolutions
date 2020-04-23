@@ -1,3 +1,4 @@
+//Questão 1221 - Primo Rápido - URI Online Judge
 #include <stdio.h>
 #include <stdbool.h>
 #include <math.h>
