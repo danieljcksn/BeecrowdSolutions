@@ -1,3 +1,4 @@
+//Questão 3049 - Nota Cortada - URI Online Judge
 #include <iostream>
 
 using namespace std;
