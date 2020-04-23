@@ -1,3 +1,4 @@
+//Questão 1073 - Quadrado de Pares - URI Online Judge
 #include <math.h>
 #include <stdio.h>
 
