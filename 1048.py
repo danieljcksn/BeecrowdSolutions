@@ -1,3 +1,4 @@
+#Questão 1048 - Aumento de Salário - URI Online Judge
 salario = float(input())
 
 if salario <= 400:
