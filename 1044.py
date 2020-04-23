@@ -1,3 +1,4 @@
+#Questão 1044 - Múltiplos - URI Online Judge
 a, b = input().split()
 
 a = int(a)
