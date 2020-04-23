@@ -1,3 +1,4 @@
+#Questão 1038 - Lanche - URI Online Judge
 codigo, quantidade = input().split()
 #Função que divide as entradas em substrings, afinal, o input sempre retorna uma string
 
