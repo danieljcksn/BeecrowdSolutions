@@ -1,3 +1,4 @@
+//Questão 3053 - Jogo dos Copos - URI Online Judge
 #include <stdio.h>
 
 void swap(int* copos, pos1, pos2){
