@@ -1,3 +1,4 @@
+#Questão 1049 - Animal - URI Online Judge
 entrada1 = input()
 entrada2 = input()
 entrada3 = input()
