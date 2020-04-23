@@ -1,3 +1,4 @@
+//Questão 1186 - Abaixo da Diagonal Secundária - URI Online Judge
 #include <stdio.h>
 
 int main(void){
