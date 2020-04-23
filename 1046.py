@@ -1,3 +1,4 @@
+#Questão 1046 - Tempo de Jogo - URI Online Judge
 inicio, fim = map(int,input().split())
 
 if inicio == fim:
