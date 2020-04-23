@@ -1,3 +1,5 @@
+//Questão 1010 - Cálculo Simples - URI Online Judge
+
 #include <stdio.h>
  
 int main() {
