@@ -1,3 +1,4 @@
+//Questão 1066 - Pares, Ímpares, Positivos e Negativos - URI Online Judge
 #include <stdio.h>
 
 int main(void){
