@@ -20,5 +20,5 @@ int main(){
 
     cout << carrinhos << " carrinhos\n" << bonecas << " bonecas\n";
 
-    return 0;
+    return 0; 
 }
