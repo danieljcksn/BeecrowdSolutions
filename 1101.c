@@ -1,3 +1,4 @@
+//Questão 1101 - Sequência de Números e Soma - URI Online Judge
 #include <stdio.h>
 
 int main(void){
