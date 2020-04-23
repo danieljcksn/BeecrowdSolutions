@@ -1,7 +1,7 @@
 //Questão 1006 - Média 2
 #include <stdio.h>
  
-int main() {
+int main() { 
  
     double A, B, C, MEDIA;
     scanf("%lf %lf %lf", &A, &B, &C);
