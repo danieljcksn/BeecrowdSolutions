@@ -1,3 +1,4 @@
+//Questão 1007 - Diferença
 #include <stdio.h>
  
 int main() {
