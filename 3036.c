@@ -2,11 +2,10 @@
 #include <stdio.h>
 #include <math.h>
 
-using namespace std;
 
 int main(){
     double lambda, v, result, dividendo, divisor, c = 300000000.0;
-    cin >> v;
+    scanf("%lf", &v);
 
     if(v < 0)
         v = v * -1;
@@ -17,23 +16,23 @@ int main(){
 
     lambda = 700.0 * sqrt(result);
     if(lambda < 400.0)
-        cout << "invisivel" << endl;
+        printf("invisivel\n");
     else if(lambda < 425.0)
-        cout << "violeta" << endl;
+        printf("violeta\n");
     else if(lambda < 445.0)
-        cout << "anil" << endl;
+        printf("anil\n");
     else if(lambda < 500.0)
-        cout << "azul" << endl;
+        printf("azul\n");
     else if(lambda < 575.0)
-        cout << "verde" << endl;
+        printf("verde\n");
     else if(lambda < 585.0)
-        cout << "amarelo" << endl;
+        printf("amarelo\n");
     else if(lambda < 620.0)
-        cout << "laranja" << endl;
+        printf("laranja\n");
     else if(lambda < 750.0)
-        cout << "vermelho" << endl;
+        printf("vermelho\n");
     else
-        cout << "invisivel" << endl;
+        printf("invisivel\n");
 
     return 0;
 }
