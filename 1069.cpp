@@ -1,4 +1,4 @@
-//Questão 1069 - Diamantes de Areia - URI Online Judge
+//Questão 1069 - Diamantes e Areia - URI Online Judge
 #include <iostream>
 #include <queue>
 
