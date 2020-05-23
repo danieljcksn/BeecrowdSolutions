@@ -1,8 +1,8 @@
-//Questão 1069 - Diamantes de Areia - URI Online Judge
+//Questão 1069 - Diamantes e Areia - URI Online Judge
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
+ 
 
 int main(){
     int n, i, diamantes, abertura, fechamento;
