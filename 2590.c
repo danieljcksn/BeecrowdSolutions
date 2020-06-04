@@ -7,6 +7,21 @@ int main(){
     int t, r;
     long int n;
 
+    /*
+    Padrão:
+    (7)
+    4(9)
+    34(3)
+    240(1)
+    1680(7)
+    11764(9)
+    82354(3)
+    576480(1)
+    4035360(7)
+
+    O final da potência sempre seguirá a sequência 7 - 9 - 3 - 1
+    */
+
     scanf("%d", &t);
     while(t > 0){
         scanf("%li", &n);
