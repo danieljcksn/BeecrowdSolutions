@@ -1,4 +1,4 @@
-//Questão  -  - URI Online Judge
+//Problema  -  - URI Online Judge
 #include <stdio.h>
 
 int main(){
