@@ -1,4 +1,4 @@
-//Questão 1286 - Motoboy - URI Online Judge
+//Problema 1286 - Motoboy - URI Online Judge
 #include <stdio.h>
 #include <stdbool.h>
 
