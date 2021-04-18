@@ -67,7 +67,7 @@ void solve(string dol, string cents){
     cout << ans << '\n';
 }
 
-int main(){
+int main(){ 
     string dol, cents;
 
     while(cin >> dol >> cents)
