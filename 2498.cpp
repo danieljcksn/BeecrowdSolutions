@@ -12,7 +12,7 @@ int main() {
         int n, c;
         cin >> n >> c;
 
-        if (!n) break;  // Exit the loop if n is 0
+        if (!n) break; 
 
         vector<pair<int, int>> books(n);
 
